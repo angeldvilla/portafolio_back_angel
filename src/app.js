@@ -3,7 +3,7 @@ const app = express();
 const cookieParser = require('cookie-parser');
 const bodyParser = require('body-parser');
 const morgan = require('morgan');
-/* const routes = require("./routes/index"); */
+const routes = require("./routes/index");
 
 app.name = "BACKEND";
 
@@ -22,7 +22,7 @@ app.use((req, res, next) => {
   next();
 });
 
-/* app.use("/", routes); */
+app.use("/", routes);
 
 // Error catching endware.
 server.use((err, req, res, next) => { // eslint-disable-line no-unused-vars
