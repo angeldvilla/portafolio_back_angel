@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1, 
+        "title": "Proyecto Individual - Foods", 
+        "description": "Proyecto Individual del Bootcamp Henry 2023. Proyecto individual desarrollado en 3 semanas aproximadamente, una Single Page Application (SPA) donde se renderizan distintas recetas desde Spoonacular Recipes and Foods API y la base de datos creada con PostgreSQL.", 
+        "image": "../assets/pi-foods.png"
+
+    },
+
+    {
+        "id": 2,
+        "title": "Proyecto Final - SkillHub",
+        "description": "Proyecto Grupal Final del Bootcamp Henry 2023. Proyecto de 4 semanas contribuido por 6 desarrolladores aparte de mi persona. SkillHub es una página web que tiene como objetivo principal conectar a las personas que necesitan realizar un trabajo ocasional con aquellas que tienen la capacidad de llevar a cabo ese trabajo. Hemos logrado crear una plataforma que no solo resuelve un problema común, sino que también promueve la colaboración y la conexión de talento. Ahora, encontrar a alguien que pueda enseñarnos algo nuevo o llevar a cabo una tarea específica es más fácil que nunca.",
+        "image": "../assets/logo-skillhub.jpg"
+    }
+]

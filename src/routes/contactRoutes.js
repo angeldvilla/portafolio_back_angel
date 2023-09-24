@@ -1,10 +1,9 @@
-const { Router } = require('express');
-const contactRoutes = Router();
+const express = require("express");
+const contactRoutes = express.Router();
 
 //*HANDLERS
-/* const { emailContact } = require('../handlers/contactHandler'); */
+const emailContact = require("../handlers/contactHandler");
 
-contactRoutes.get('/', emailContact);
+contactRoutes.get("/", emailContact);
 
-
-module.exports = contactRoutes
+module.exports = contactRoutes;

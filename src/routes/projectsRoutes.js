@@ -1,8 +1,8 @@
-const { Router } = require('express');
-const projectsRoutes = Router();
+const express = require('express');
+const projectsRoutes = express.Router();
 
 //*HANDLERS
-/* const { allProjectsHandler } = require('../handlers/projectsHandler'); */
+const allProjectsHandler = require('../handlers/allprojectsHandler');
 
 projectsRoutes.get('/', allProjectsHandler);
 

@@ -1,0 +1,124 @@
+{
+  "softSkills": [
+    { 
+        "id": 1, 
+        "title": "Comunicativo",
+        "description": "Soy una persona muy sociable y capaz de comunicar cualquier inquietud, solicitud, sugerencia o cambios de opinión",  
+        "image": "" 
+    },
+    {
+        "id": 2, 
+        "title": "Empatico",
+        "description": "Me gusta ser empatico y ser sincero poniendome en el lugar de la otra persona para poder analizar su punto y asi lograr ayudarlo a resolver algun inconveniente",  
+        "image": "" 
+    },
+    {
+        "id": 3, 
+        "title": "Solidario", 
+        "description": "La solidaridad es vital en un ambiente laboral por eso le doy importancia y ayudo en cuanto pueda, que este dentro de mis alcanzes y de manera positiva para un mejor rendimiento", 
+        "image": "" 
+    },
+    {
+        "id": 4, 
+        "title": "Adaptabilidad",
+        "description": "Me adapto a cualquier cambio o situación y mas si es para mejorar mis habilidades y cumplir con ciertos objetivos establecidos",  
+        "image": "" 
+    },
+    {
+        "id": 5, 
+        "title": "Creativo",  
+        "description": "A la hora de trabajar me gusta innovar, explorar ideas y dar soluciones a distintas situaciones que se presenten, ",
+        "image": "" 
+    },
+    {
+        "id": 6, 
+        "title": "Dedicado",  
+        "image": "Soy muy entregado, dedicado en el trabajo, me gusta cumplir a tiempo con los objetivos que se me asignan, y hacer mejoras constantes" 
+    },
+    {
+        "id": 7, 
+        "title": "Perseverante",
+        "description": "No me rindo tan facilmente, siempre estoy dispuesto a analizar, buscar, explorar distintas formas y metodos para dar una solución al problema en el cual me encuentro",  
+        "image": "" 
+    },
+    {
+        "id": 8, 
+        "title": "Resiliente",
+        "description": "Soy una persona que me gusta enfrentar los desafios que me presentan y me adapto a cualquier circunstancia",  
+        "image": "" 
+    }
+],
+
+  "techSkills": [
+    { 
+        "id": 1, 
+        "title": "Javascript",
+        "image": "" 
+    },
+    { 
+        "id": 2, 
+        "title": "HTML5", 
+        "image": "" 
+    },
+    { 
+        "id": 3, 
+        "title": "CSS3", 
+        "image": "" 
+    },
+    { 
+        "id": 4, 
+        "title": "PHP", 
+        "image": "" 
+    },
+    { 
+        "id": 5, 
+        "title": "React", 
+        "image": "" 
+    },
+    { 
+        "id": 6, 
+        "title": "Redux", 
+        "image": "" 
+    },
+    { 
+        "id": 7, 
+        "title": "Vite", 
+        "image": "" 
+    },
+    { 
+        "id": 8, 
+        "title": "Tailwind CSS", 
+        "image": "" 
+    },
+    { 
+        "id": 9, 
+        "title": "Bootstrap", 
+        "image": "" 
+    },
+    { 
+        "id": 10, 
+        "title": "Node", 
+        "image": "" 
+    },
+    { 
+        "id": 11, 
+        "title": "Express", 
+        "image": "" 
+    },
+    { 
+        "id": 12, 
+        "title": "Sequelize", 
+        "image": "" 
+    },
+    { 
+        "id": 13, 
+        "title": "PostgreSQL", 
+        "image": "" 
+    },
+    { 
+        "id": 14, 
+        "title": "MySQL", 
+        "image": "" 
+    }
+]
+}
