@@ -1,25 +1,25 @@
 [
+  {
+    "id": 1,
+    "title": "Proyecto Integrador - Rick and Morty",
+    "description": "Proyecto Integrador del Bootcamp Henry 2023. Proyecto individual desarrollado durante el modulo 2 (front-end) una Single Page Application (SPA) donde se renderizan cards de la serie de televisión Rick and Morty, se puede buscar por ID de personajes, tiene su sección para agregar personajes favoritos, manejando el estado con Redux y se conecta con la base de datos creada con PostgreSQL y la API de Rick and Morty.",
+    "image": "https://res.cloudinary.com/dxe4igvmq/image/upload/v1697481160/Fotos/u8d4f9ovt90lmhhhgrz8.jpg",
+    "repositorio": "https://github.com/angeldvilla/rick-and-morty"
+  },
 
-    {
-        "id": 1, 
-        "title": "Proyecto Integrador - Rick and Morty", 
-        "description": "Proyecto Integrador del Bootcamp Henry 2023. Proyecto individual desarrollado durante el modulo 2 (front-end) una Single Page Application (SPA) donde se renderizan cards de la serie de televisión Rick and Morty, se puede buscar por ID de personajes, tiene su sección para agregar personajes favoritos, manejando el estado con Redux y se conecta con la base de datos creada con PostgreSQL y la API de Rick and Morty.", 
-        "image": "https://res.cloudinary.com/dxe4igvmq/image/upload/v1697481160/Fotos/u8d4f9ovt90lmhhhgrz8.jpg"
+  {
+    "id": 2,
+    "title": "Proyecto Individual - Foods",
+    "description": "Proyecto Individual del Bootcamp Henry 2023. Proyecto individual desarrollado en 3 semanas aproximadamente, una Single Page Application (SPA) donde se renderizan distintas recetas desde Spoonacular Recipes and Foods API y la base de datos creada con PostgreSQL.",
+    "image": "https://res.cloudinary.com/dxe4igvmq/image/upload/v1697481159/Fotos/x11yxne5cqxzicpt9ddb.png",
+    "repositorio": "https://github.com/angeldvilla/PI-Food-main"
+  },
 
-    },
-
-    {
-        "id": 2, 
-        "title": "Proyecto Individual - Foods", 
-        "description": "Proyecto Individual del Bootcamp Henry 2023. Proyecto individual desarrollado en 3 semanas aproximadamente, una Single Page Application (SPA) donde se renderizan distintas recetas desde Spoonacular Recipes and Foods API y la base de datos creada con PostgreSQL.", 
-        "image": "https://res.cloudinary.com/dxe4igvmq/image/upload/v1697481159/Fotos/x11yxne5cqxzicpt9ddb.png"
-
-    },
-
-    {
-        "id": 3,
-        "title": "Proyecto Final - SkillHub",
-        "description": "Proyecto Grupal Final del Bootcamp Henry 2023. Proyecto de 4 semanas contribuido por 6 desarrolladores aparte de mi persona. SkillHub es una página web que tiene como objetivo principal conectar a las personas que necesitan realizar un trabajo ocasional con aquellas que tienen la capacidad de llevar a cabo ese trabajo. Hemos logrado crear una plataforma que no solo resuelve un problema común, sino que también promueve la colaboración y la conexión de talento. Ahora, encontrar a alguien que pueda enseñarnos algo nuevo o llevar a cabo una tarea específica es más fácil que nunca.",
-        "image": "https://res.cloudinary.com/dxe4igvmq/image/upload/v1697481159/Fotos/xjbigxx6fxo3ovkk8wyx.jpg"
-    }
+  {
+    "id": 3,
+    "title": "Proyecto Final - SkillHub",
+    "description": "Proyecto Grupal Final del Bootcamp Henry 2023. Proyecto de 4 semanas contribuido por 6 desarrolladores aparte de mi persona. SkillHub es una página web que tiene como objetivo principal conectar a las personas que necesitan realizar un trabajo ocasional con aquellas que tienen la capacidad de llevar a cabo ese trabajo. Hemos logrado crear una plataforma que no solo resuelve un problema común, sino que también promueve la colaboración y la conexión de talento. Ahora, encontrar a alguien que pueda enseñarnos algo nuevo o llevar a cabo una tarea específica es más fácil que nunca.",
+    "image": "https://res.cloudinary.com/dxe4igvmq/image/upload/v1697481159/Fotos/xjbigxx6fxo3ovkk8wyx.jpg",
+    "repositorio": "https://github.com/angeldvilla/skillHub-front"
+  }
 ]
