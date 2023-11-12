@@ -8,12 +8,11 @@ module.exports = (req, res) => {
       description: project.description,
       image: project.image,
       repositorio: project.repositorio,
+      enlace: project.enalce,
     }));
-    
-    return res.status(200).json(projects);
-    
-  } catch (error) {
-    return res.status(500).json(error)
-  }
-}
 
+    return res.status(200).json(projects);
+  } catch (error) {
+    return res.status(500).json(error);
+  }
+};

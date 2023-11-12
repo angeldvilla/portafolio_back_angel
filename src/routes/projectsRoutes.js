@@ -2,7 +2,7 @@ const express = require('express');
 const projectsRoutes = express.Router();
 
 //*HANDLERS
-const allProjectsHandler = require('../handlers/allprojectsHandler');
+const allProjectsHandler = require('../handlers/allProjectsHandler');
 
 projectsRoutes.get('/', allProjectsHandler);
 
