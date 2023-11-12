@@ -8,7 +8,7 @@ module.exports = (req, res) => {
       description: project.description,
       image: project.image,
       repositorio: project.repositorio,
-      enlace: project.enalce,
+      enlace: project.enlace,
     }));
 
     return res.status(200).json(projects);
