@@ -29,7 +29,7 @@
   {
     "id": 4,
     "title": "Gestión de Valores de Polizas",
-    "description": "Este proyecto representa una experiencia práctica colaborativa con otro desarrollador backend, centrado en satisfacer las necesidades específicas de la empresa TransArgelia y Cairo, ubicada en Cartago, Valle del Cauca, Colombia. La empresa, dedicada al transporte de vehículos como buses, taxis y microbuses, requería una solución eficiente para la gestión de pólizas de sus usuarios. El aplicativo web resultante se construyó utilizando tecnologías avanzadas, como PHP, Laravel, MySQL, React, Redux y Material-UI. El objetivo principal del sistema es optimizar la gestión de pólizas, permitiendo a la empresa llevar un control detallado y efectivo de las coberturas, vencimientos y demás aspectos relevantes.",
+    "description": "Este proyecto representa una experiencia práctica colaborativa con otro desarrollador backend, centrado en satisfacer las necesidades específicas de una empresa, ubicada en Cartago, Valle del Cauca, Colombia. La empresa, dedicada al transporte de vehículos como buses, taxis y microbuses, requería una solución eficiente para la gestión de pólizas de sus usuarios. El aplicativo web resultante se construyó utilizando tecnologías avanzadas, como PHP, Laravel, MySQL, React, Redux y Material-UI. El objetivo principal del sistema es optimizar la gestión de pólizas, permitiendo a la empresa llevar un control detallado y efectivo de las coberturas, vencimientos y demás aspectos relevantes.",
     "image": "https://res.cloudinary.com/dxe4igvmq/image/upload/v1700071222/Fotos/pfuaqcxhn2lnklf8zidr.png",
     "repositorio": "https://github.com/angeldvilla/sarmicro_front",
     "enlace": "https://github.com/angeldvilla/sarmicro_front"
