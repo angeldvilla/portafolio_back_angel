@@ -29,8 +29,16 @@
   {
     "id": 4,
     "title": "Gestión de Valores de Polizas",
+    "description": "Proyecto personal, a través de probar nuevas fronteras, nuevas tecnologias, nuevos campos, como lo es el mobile, curse y aprobe en Udemy la realización de esta app, pero modifique ciertas cosas tanto en el backend que fue desarrollado en Node.js con NestJS, base de datos en MySQL , y los estilos los adapte a un diseño previsto en Figma que tenia realizado, para ello trabajé la parte del frontend con Flutter y Dart, una estructura llamada Bloc, para manejar eventos y estados de una forma más práctica.",
+    "image": "",
+    "repositorio": "https://github.com/angeldvilla/front_servitax",
+    "enlace": "https://github.com/angeldvilla/front_servitax"
+  },
+  {
+    "id": 5,
+    "title": "App Mobile - Pedido de Taxis",
     "description": "Este proyecto representa una experiencia práctica colaborativa con otro desarrollador backend, centrado en satisfacer las necesidades específicas de una empresa, ubicada en Cartago, Valle del Cauca, Colombia. La empresa, dedicada al transporte de vehículos como buses, taxis y microbuses, requería una solución eficiente para la gestión de pólizas de sus usuarios. El aplicativo web resultante se construyó utilizando tecnologías avanzadas, como PHP, Laravel, MySQL, React, Redux y Material-UI. El objetivo principal del sistema es optimizar la gestión de pólizas, permitiendo a la empresa llevar un control detallado y efectivo de las coberturas, vencimientos y demás aspectos relevantes.",
-    "image": "https://res.cloudinary.com/dxe4igvmq/image/upload/v1700071222/Fotos/pfuaqcxhn2lnklf8zidr.png",
+    "image": "https://res.cloudinary.com/dxe4igvmq/image/upload/v1716394164/Fotos/kqdsnsmty406h1e2zzt2.png",
     "repositorio": "https://github.com/angeldvilla/sarmicro_front",
     "enlace": "https://github.com/angeldvilla/sarmicro_front"
   }
