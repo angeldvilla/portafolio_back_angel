@@ -10,7 +10,7 @@
 
   {
     "id": 2,
-    "title": "Api Foods",
+    "title": "Foods App",
     "description": "Proyecto Individual del Bootcamp Henry 2023. Proyecto individual desarrollado en 3 semanas aproximadamente, una Single Page Application (SPA) donde se renderizan distintas recetas desde Spoonacular Recipes and Foods API y la base de datos creada con PostgreSQL.",
     "image": "https://res.cloudinary.com/dxe4igvmq/image/upload/v1700077829/Fotos/bf1udinanknihuffxapb.jpg",
     "repositorio": "https://github.com/angeldvilla/PI-Food-main",
